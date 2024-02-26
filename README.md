@@ -232,7 +232,6 @@ communicate with each other in  a secure, trust-free environment.
   
 ### DAO 
 - [Automata](https://www.dotmarketcap.com/coin/automata)- Web 3.0 Realized with Traceless Privacy and Seamless Compatibility.
-- [Houses of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
 - [Edgeware](https://www.dotmarketcap.com/coin/edgeware)- Decentralized applications for an Open Society. Community-owned & powered by Substrate.
 - [Chaos DAO](https://twitter.com/ChaosDAO)-The first friendly community in Polkadot and Kusama, ChaosDAO focuses on quality over 
    quantity, and is full of varied and valuable minds taking progressive action.
@@ -243,7 +242,6 @@ communicate with each other in  a secure, trust-free environment.
 
 ### Oracles
 - [Chainlink](https://www.dotmarketcap.com/coin/chainlink)- An Intermediary Between Smart Contracts And Real World Data.
-- [Kylin Network](https://www.dotmarketcap.com/coin/kylin-network)- A Cross-chain platform building supporting data economy on Polkadot.
 - [Ares Protocol](https://www.dotmarketcap.com/coin/ares-protocol)- A Decentralized Cross-chain Oracle Service Protocol.
 
 ### Social
@@ -253,8 +251,6 @@ communicate with each other in  a secure, trust-free environment.
 - [Frequency](https://www.frequency.xyz/) - Implements Decentralized Social Networking Protocol (DSNP). Frequency gives builders high
 volume blockchain transactions at low, predictable costs.
 - [Saito Network](https://www.dotmarketcap.com/coin/saito)- A blockchain process terabytes of data, decentralize from micropayments to email & social networks.
-- [House of Rome](https://www.dotmarketcap.com/coin/rome)- Assembling the great houses to build an APYRPG on Kusama & Polkadot.
-- [Crowns](https://www.dotmarketcap.com/coin/crowns)- The Crown Jewel of Incentivized Gaming.
 - [Demeter](https://www.dotmarketcap.com/coin/demeter)- A first Ceres airdrop token with its platform called Demeter Farming Platform and 
   The play-to-Earn game is called DEO Arena.
 
